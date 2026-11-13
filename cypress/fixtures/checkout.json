@@ -1,0 +1,10 @@
+{
+  "address": "Calle Falsa 123",
+  "city": "Madrid",
+  "state": "Madrid",
+  "country": "ES",
+  "postcode": "28001",
+  "paymentMethod": "cash-on-delivery",
+  "accountName": "Erika Test",
+  "accountNumber": "123456789"
+}
